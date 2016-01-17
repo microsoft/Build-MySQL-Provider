@@ -1,9 +1,12 @@
 [submodule "mysql"]
 	path = mysql
 	url = git@github.com:MSFTOSSMgmt/MySQL-Provider.git
+	branch = develop
 [submodule "pal"]
 	path = pal
 	url = git@github.com:MSFTOSSMgmt/pal.git
+	branch = develop
 [submodule "omi"]
 	path = omi
 	url = git@github.com:MSFTOSSMgmt/omi.git
+	branch = develop
